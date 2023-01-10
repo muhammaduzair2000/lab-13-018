@@ -14,7 +14,8 @@ public class exception {
 			 (Answer);	
 			 }
 		 catch (ArithmeticException e) {
-			 System.out.println("ArithmeticException");		 
+			 System.out.println("ArithmeticException");
+			 System.out.println("Weather is good");
 			 }
 		 }
 	 }		 
